@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PP000777&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TrilhaX&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PP000777&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -37,11 +37,11 @@
 📧 Email: bia.silva007@hotmail.com or pcash532@gmail.com <br>
 📱 Instagram: @peddrxs.07 <br>
 
-![snake gif](https://github.com/TrilhaX/TrilhaX/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/PP000777/PP000777/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TrilhaX}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PP000777}/count.svg" /></p> 
 <br></div>
 
 

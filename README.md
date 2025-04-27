@@ -30,8 +30,7 @@
  
 ### Studying in this moment:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![NPM]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/npm/v/:packageName
-))&nbsp;
+![NPM](https://img.shields.io/npm/v/:packageName)&nbsp;
 
 ### Contacts
 
